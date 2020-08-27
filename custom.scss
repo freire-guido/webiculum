@@ -1,0 +1,8 @@
+$font-family-base: 'Montserrat', sans-serif;
+
+$theme-colors: (
+    "primary": #67b1a0,
+    "secondary": #f2e8b6
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
